@@ -1,0 +1,6 @@
+framework module Pods_FFTabbar_Example {
+  umbrella header "Pods-FFTabbar_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

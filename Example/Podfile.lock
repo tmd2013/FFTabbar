@@ -1,0 +1,16 @@
+PODS:
+  - FFTabbar (0.1.0)
+
+DEPENDENCIES:
+  - FFTabbar (from `../`)
+
+EXTERNAL SOURCES:
+  FFTabbar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFTabbar: 5fccec8e737a8c8439ff48ccaa0d5234027a12ae
+
+PODFILE CHECKSUM: d4eab314d46183751b42ee38e219806938597855
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,22 @@
+{
+  "name": "FFTabbar",
+  "version": "0.1.0",
+  "summary": "A short description of FFTabbar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/399820721@qq.com/FFTabbar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "399820721@qq.com": "399820721@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/399820721@qq.com/FFTabbar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFTabbar/Classes/**/*"
+}

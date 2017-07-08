@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FFTabbar_Example' do
+  pod 'FFTabbar', :path => '../'
+
+  target 'FFTabbar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
